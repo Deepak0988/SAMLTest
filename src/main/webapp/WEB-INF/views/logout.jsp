@@ -11,9 +11,9 @@
     <title>SAML Test Application</title>
 </head>
 <body>
-    <h1>Welcome To The Application</h1>
-    <form method="post" action="logout">
-        <button type="submit">logout</button>
+    <h1>Logout Success</h1>
+    <form method="post" action="login">
+        <button type="submit">login</button>
     </form>
 </body>
 </html>
